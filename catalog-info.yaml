@@ -1,8 +1,10 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
+
 metadata:
   name: Vault-test-02
-  description: Node app that displays time - named Vault-test-02
+  description: Service Vault-test-02
+
   annotations:
     github.com/project-slug: BackstageSSPPoC/Vault-test-02
     backstage.io/techdocs-ref: dir:.
